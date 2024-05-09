@@ -34,10 +34,8 @@
 | <div id="S004" style="text-align: center;"><img src="./_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   {{latest_content}} | [订阅地址](https://www.jokerps.com/feed) |
 | <div id="S005" style="text-align: center;"><img src="./_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | {{latest_content}} | [订阅地址](https://www.appinn.com/feed/) | 
 | <div id="S006" style="text-align: center;"><img src="./_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  {{latest_content}} | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="./_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  {{latest_content}} | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
-| <div id="B001" style="text-align: center;"><img src="./_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  {{latest_content}} | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
 | <div id="B002" style="text-align: center;"><img src="./_media/favicon/B002.png" width="30px" style="width:30px;height: auto;"/><br><span>B002</span></div> | 当我在扯淡 | 王垠的博客，观点奇妙有趣 |  {{latest_content}} | [订阅地址](https://yinwang1.wordpress.com/feed/) |
 | <div id="B003" style="text-align: center;"><img src="./_media/favicon/B003.png" width="30px" style="width:30px;height: auto;"/><br><span>B003</span></div> | 黑果小兵的部落阁 | Hackintosh安装镜像、教程及经验分享|  {{latest_content}} | [订阅地址](https://blog.daliansky.net/atom.xml) |
 | <div id="B004" style="text-align: center;"><img src="./_media/favicon/B004.png" width="30px" style="width:30px;height: auto;"/><br><span>B004</span></div> | 张鑫旭的博客 | 张鑫旭-鑫空间-鑫生活 | {{latest_content}} | [订阅地址](https://www.zhangxinxu.com/wordpress/feed/) | 
@@ -73,7 +71,6 @@
 | <div id="B034" style="text-align: center;"><img src="./_media/favicon/B034.png" width="30px" style="width:30px;height: auto;"/><br><span>B034</span></div> | diss带码 | 码动人生 | {{latest_content}}  |  [订阅地址](https://dumplingbao.github.io/atom.xml) | 
 | <div id="B035" style="text-align: center;"><img src="./_media/favicon/B035.png" width="30px" style="width:30px;height: auto;"/><br><span>B035</span></div> | 王登科-DK博客 | 布洛芬爱好者 | {{latest_content}}  |  [订阅地址](https://greatdk.com/feed) | 
 | <div id="B036" style="text-align: center;"><img src="./_media/favicon/B036.png" width="30px" style="width:30px;height: auto;"/><br><span>B036</span></div> | 笨方法学写作 | 笨方法学写作,这一次彻底学会写作 | {{latest_content}}  |  [订阅地址](https://www.cnfeat.com/feed.xml) | 
-| <div id="B037" style="text-align: center;"><img src="./_media/favicon/B037.png" width="30px" style="width:30px;height: auto;"/><br><span>B037</span></div> | 风雪之隅 | 左手代码右手诗 | {{latest_content}}  |  [订阅地址](https://www.laruence.com/feed) | 
 | <div id="B038" style="text-align: center;"><img src="./_media/favicon/B038.png" width="30px" style="width:30px;height: auto;"/><br><span>B038</span></div> | Hawstein's Blog | 这里是 Hawstein 的个人博客，记录生活点滴。 | {{latest_content}}  |  [订阅地址](https://hawstein.com/feed.xml) | 
 | <div id="B039" style="text-align: center;"><img src="./_media/favicon/B039.png" width="30px" style="width:30px;height: auto;"/><br><span>B039</span></div> | DeveWork | WordPress极客一枚 | {{latest_content}}  |  [订阅地址](https://devework.com/feed) | 
 | <div id="B040" style="text-align: center;"><img src="./_media/favicon/B040.png" width="30px" style="width:30px;height: auto;"/><br><span>B040</span></div> | 海交史 | 东亚文史研究动态网 | {{latest_content}}  |  [订阅地址](https://www.haijiaoshi.com/feed) | 
@@ -115,7 +112,6 @@
 | <div id="B076" style="text-align: center;"><img src="./_media/favicon/B076.png" width="30px" style="width:30px;height: auto;"/><br><span>B076</span></div> | KAIX.IN | 杂文、随笔、感悟、记录 | {{latest_content}}  |  [订阅地址](https://kaix.in/feed/) | 
 | <div id="B077" style="text-align: center;"><img src="./_media/favicon/B077.png" width="30px" style="width:30px;height: auto;"/><br><span>B077</span></div> | 硕鼠的博客站 | 范路的博客主站，时而会发些东西。 | {{latest_content}}  |  [订阅地址](http://lukefan.com/?feed=rss2) | 
 | <div id="B078" style="text-align: center;"><img src="./_media/favicon/B078.png" width="30px" style="width:30px;height: auto;"/><br><span>B078</span></div> | 构建我的被动收入 | Lifelong Learner | {{latest_content}}  |  [订阅地址](https://www.bmpi.dev/index.xml) | 
-|  <div id="B079" style="text-align: center;"><img src="./_media/favicon/B079.png" width="30px" style="width:30px;height: auto;"/><br><span>B079</span></div> | Livid | Beautifully Advance | {{latest_content}}  |  [订阅地址](https://livid.v2ex.com/feed.xml) | 
 | <div id="B080" style="text-align: center;"><img src="./_media/favicon/B080.png" width="30px" style="width:30px;height: auto;"/><br><span>B080</span></div> | 胡涂说 | hutusi.com | {{latest_content}}  |  [订阅地址](https://hutusi.com/feed.xml) | 
 | B081 | 鸟窝 | 万物之始，大道至简，衍化至繁 | {{latest_content}}  |  [订阅地址](https://colobu.com/atom.xml) |
 | <div id="B082" style="text-align: center;"><img src="./_media/favicon/B082.png" width="30px" style="width:30px;height: auto;"/><br><span>B082</span></div> | 卡瓦邦噶！ | 无法自制的人得不到自由。 | {{latest_content}} | [订阅地址](https://www.kawabangga.com/feed) |
@@ -170,7 +166,6 @@
 | D003 | Chiphell  | 分享与交流用户体验 | {{latest_content}}  |  [订阅地址](https://www.chiphell.com/portal.php?mod=rss)  | 
 | <h2 id="IT团队博客">IT团队博客</h2> |  |   |  |
 | I001 | AlloyTeam | 腾讯全端AlloyTeam团队的技术博客 | {{latest_content}}  |  [订阅地址](http://www.alloyteam.com/feed/) | 
-| I002 | 奇舞周刊 | 360前端团队博客，领略前端技术，阅读奇舞周刊  | {{latest_content}}  |  [订阅地址](https://weekly.75.team/rss) | 
 | I004 | 淘系前端团队 | 淘宝团队技术博客 | {{latest_content}}  |  [订阅地址](https://fed.taobao.org/atom.xml) | 
 | I005 | 字节跳动团队技术博客 | 字节跳动团队技术博客 | {{latest_content}}  |  [订阅地址](https://blog.csdn.net/ByteDanceTech/rss/list) | 
 | I006 | 美团技术团队博客 | 美团技术团队博客 | {{latest_content}}  |  [订阅地址](https://tech.meituan.com/feed/)  | 
@@ -198,12 +193,10 @@
 | T008 | 蓝卡  | 美好科技生活方式 | {{latest_content}}  |  [订阅地址](https://www.lanka.cn/feed) |  
 | T009 | APPDO数字生活指南  | Simon的自留地_数码_App_羊毛_相机_数字指南 | {{latest_content}}  |  [订阅地址](https://simonword.com/feed) |  
 | <h2 id="学习类">学习类</h2> |  |   |  |
-| L001 | 扔物线 | 帮助 Android 工程师进阶成长 | {{latest_content}}  |  [订阅地址](https://rengwuxian.com/feed) |  
 | L002 | MOOC中国 | 慕课改变你，你改变世界  | {{latest_content}}  |  [订阅地址](https://www.mooc.cn/feed) |  
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | A001 | 青柠学术 | 每个科研小白都有成为大神的潜力 | {{latest_content}}  |  [订阅地址](https://iseex.github.io/feed) |  
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| L001 | 李子柒 | 李子柒的微博 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/weibo/user/2970452952) |  
 | L002 | 理想生活实验室 | 为更理想的生活 | {{latest_content}}  |  [订阅地址](https://www.toodaylab.com/rss) |  
 | L003 | 一兜糖 | 家的主理人社区 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/yidoutang/index) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
@@ -261,8 +254,6 @@
 | <h2 id="资源类">资源类</h2> |  |   |  |
 | <div id="R001" style="text-align: center;"><img src="./_media/favicon/R001.png" width="30px" style="width:30px;height: auto;"/><br><span>R001</span></div> | 书格 |  有品格的数字古籍图书馆 | {{latest_content}}  |  [订阅地址](https://www.shuge.org/feed/) |  
 | R002 | 书伴 |  为静心阅读而生 | {{latest_content}}  |  [订阅地址](https://feeds.feedburner.com/bookfere) |  
-| R003 | kindle吧 |  海量书单阅读分享者 | {{latest_content}}  |  [订阅地址](https://www.kindle8.cc/feed) | 
-| R004 | 起点中文网 |  限时免费清单 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/qidian/free) | 
 | <h2 id="Telegram优质频道RSS订阅">Telegram优质频道RSS订阅</h2> |  |   |  |
 | TG001 | 4K影视屋 |  蓝光无损电影 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/dianying4K) |  
 | TG002 | 编程笑话 |  程序员编程笑话 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/programmerjokes) |  
@@ -272,7 +263,6 @@
 | TG006 | 阿里云盘资源分享 |  分享资源完成阿里云盘任务，收获精品资源保存到不限速网盘 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/YunPanPan) |
 | TG007 | Google Drive | 资源共享-软件-电影-纪录片-科学上网 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/YunPanPan) |
 | TG008 | 扫地僧笔记 | 扫地僧树洞 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/lover_links) |
-| TG009 | 树莓派家用云服务器 | 树莓派家用云服务器交流  | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi) |
 | TG010 | 快乐星球 | 美女图片  | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/botmzt) |
 | TG011 | Newlearnerの自留地 | 不定期推送 IT 相关资讯 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/NewlearnerChannel) |
 
@@ -353,7 +343,3 @@ yag.send('填收件人邮箱', '主题:学习使我快乐', contents)
 
 [https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png](https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png)
 
-
-## 广告位招租
-
-![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/zhaoolee-link.png)
